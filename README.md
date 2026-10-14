@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Elle 👋
 
-<!--
-**elle777-bot/elle777-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm an aspiring software engineer.
 
-Here are some ideas to get you started:
+💻 I'm interested in software development, programming, and technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I have experience with Python, C++, EasyPascal, and Java, and I'm continuing to strengthen my programming and Git/GitHub skills.
+
+🛠️ I enjoy hands-on learning and working on projects to strengthen my technical skills.
+
+## 🧰 Skills & Technologies
+
+- Python
+- C++
+- EasyPascal
+- Java
+- Git & GitHub — Currently Learning
+- Programming Fundamentals
+- Problem-Solving
+
+## 🚀 Currently Learning
+
+- Software Development
+- Git & GitHub
+- Building and Documenting Projects
+
+## 📂 Projects
+
+Projects coming soon! I'm currently building and documenting hands-on programming projects as I work toward becoming a software engineer.
